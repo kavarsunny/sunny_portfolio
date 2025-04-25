@@ -453,9 +453,116 @@ header .navbar ul li a:hover {
     grid-template-columns: 1fr; /* 1 item per row */
   }
 }
+/* General styling for the contact section */
+#ab {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-color: #7e7777;
+  border-radius: 8px;
+
+}
+
+/* Style for the strong element */
+#ab strong {
+  display: block;
+  font-size: 5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Style for the paragraph */
+#ab p {
+  font-size: 2rem;
+  color: #555;
+  margin: 0;
+}
+
+/* Make the text responsive */
+@media (max-width: 768px) {
+  #ab {
+    padding: 15px;
+  }
+
+  #ab strong {
+    font-size: 1.8rem;
+  }
+
+  #ab p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Further styling for smaller screens (mobile) */
+@media (max-width: 480px) {
+  #ab {
+    /* General styling for the contact section */
+#ab {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+/* Style for the strong element */
+#ab strong {
+  display: block;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Style for the paragraph */
+#ab p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0;
+}
+
+/* Make the text responsive */
+@media (max-width: 768px) {
+  #ab {
+    padding: 15px;
+  }
+
+  #ab strong {
+    font-size: 1.8rem;
+  }
+
+  #ab p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Further styling for smaller screens (mobile) */
+@media (max-width: 480px) {
+  #ab {
+    padding: 10px;
+  }
+
+  #ab strong {
+    font-size: 1.6rem;
+  }
+
+  #ab p {
+    font-size: 0.85rem;
+  }
+}
+
+  }
+
+  #ab strong {
+    font-size: 1.6rem;
+  }
+
+  #ab p {
+    font-size: 0.85rem;
+  }
+}
 
 #skillsContainer {
-  display:flex;
+  display: flex;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.5rem;
   padding: 20px;
@@ -466,7 +573,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
   border-radius: 10px;
   text-align: center;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease;
 }
 
