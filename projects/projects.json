@@ -1,0 +1,59 @@
+[
+  {
+    "name": "WordCraft",
+    "desc": "A real-time collaborative text editor built using ReactJs, NodeJs, Socket.io, and MongoDB.",
+    "image": "jspro",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kavarsunny/WordCraft",
+      "code": "https://github.com/kavarsunny/WordCraft"
+    }
+  },
+  {
+    "name": "SynChat",
+    "desc": "A real-time chat application with room creation features using ReactJs, Redux, NodeJs, and MongoDB.",
+    "image": "synchat",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kavarsunny/SynChat",
+      "code": "https://github.com/kavarsunny/SynChat"
+    }
+  },
+  {
+    "name": "UberClone",
+    "desc": "A UI and functionality clone of the Uber app using HTML, CSS, and JavaScript and also used backend with NodeJs and MongoDB.",
+    "image": "uberclone",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/kavarsunny/UberClone",
+      "code": "https://github.com/kavarsunny/UberClone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website built using HTML5, CSS3, JavaScript",
+    "image": "portfolio-website",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/kavarsunny/Portfolio"
+    }
+  },
+  {
+    "name": "Amazon Clone ",
+    "desc": "build amazon clone using css, html, javascript",
+    "image": "p-website",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/kavarsunny/amazon_clone_css"
+    }
+  },
+  {
+    "name": "MyNote",
+    "desc": "build note taking app using reactjs, nodejs, mongodb",
+    "image": "p-website",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/kavarsunny/MyNote_React"
+    }
+  }
+]
